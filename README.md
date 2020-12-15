@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m looking to collaborate on web projects with C# 
 
-and looking for help with my project [module-plus-template](https://github.com/faridprogrammer/module-plus-template) project
+and looking for help with my [module-plus-template](https://github.com/faridprogrammer/module-plus-template) project
 <!--
 **faridprogrammer/faridprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
