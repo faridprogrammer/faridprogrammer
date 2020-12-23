@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m looking to collaborate on web projects with C# 
+I’m looking to collaborate on C#, .NET Core projects 
 
 and looking for help with my [module-plus-template](https://github.com/faridprogrammer/module-plus-template) project
 <!--
