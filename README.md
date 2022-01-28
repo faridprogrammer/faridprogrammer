@@ -2,6 +2,9 @@
 I’m looking to collaborate on C#, .NET Core projects 
 
 and looking for help with my [module-plus-template](https://github.com/faridprogrammer/module-plus-template) project
+
+🌱 I’m currently learning NodeJs
+
 <!--
 **faridprogrammer/faridprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
