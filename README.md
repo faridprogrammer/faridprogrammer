@@ -46,9 +46,10 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/SQLServer-316192?style=for-the-badge&logo=sqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLServer-512BD4?style=for-the-badge&logo=sqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/REDIS-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
