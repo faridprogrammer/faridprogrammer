@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently building [checklists](https://github.com/faridprogrammer/checklists).
+I'm currently building [checklists](https://github.com/faridprogrammer/checklists) and [sql-multi-db-query](https://github.com/faridprogrammer/multiple-db-sql-query).
 
 and looking for help with my [module-plus-template](https://github.com/faridprogrammer/module-plus-template) project.
 
