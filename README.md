@@ -4,9 +4,9 @@ I'm currently building [checklists](https://github.com/faridprogrammer/checklist
 
 and looking for help with my [module-plus-template](https://github.com/faridprogrammer/module-plus-template) project.
 
-I'm looking forward to collaborate on NodeJs and .NET Core projects.
+I'm looking forward to collaborate open source projects.
 
-🌱 HEY!!! I’m currently learning NodeJs :)
+🌱 HEY!!! :)
 
 <!--
 **faridprogrammer/faridprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,9 +34,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASPNET.CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/EF.CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </p>
 
 <p>
@@ -46,9 +43,7 @@ Here are some ideas to get you started:
 
 <p>
   <img src="https://img.shields.io/badge/SQLServer-512BD4?style=for-the-badge&logo=sqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/REDIS-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
