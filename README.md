@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-I'm looking forward to collaborate open source projects.
-
-🌱 HEY!!! :)
-
 <!--
 **faridprogrammer/faridprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
