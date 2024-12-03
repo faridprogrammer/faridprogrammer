@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I’m Farid Bekran, a passionate software developer and technical leader with over 11 years of experience in building scalable, high-quality software solutions. I specialize in .NET/C# development, but my work spans a wide range of technologies, including microservices, DevOps practices, and modern front-end frameworks like React and Angular.
+
+I’ve had the privilege of working across industries like fintech, telecommunications, and IT services, where I’ve led teams, mentored developers, and delivered innovative solutions that drive real business value. Writing clean, maintainable code and solving challenging problems are at the core of what I do.
+
+When I’m not coding or brainstorming tech strategies, I enjoy sharing knowledge, learning new skills, and collaborating on exciting projects. Let’s connect and build something amazing together!
+
 ### My Skills
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
