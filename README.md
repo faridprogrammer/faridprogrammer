@@ -21,27 +21,17 @@ I’ve had the privilege of working across industries like fintech, telecommunic
 When I’m not coding or brainstorming tech strategies, I enjoy sharing knowledge, learning new skills, and collaborating on exciting projects. Let’s connect and build something amazing together!
 
 ### My Skills
-<p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
 
-<p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASPNET.CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/EF.CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-</p>
+**Backend:** .NET, C#, ASP.NET Core, Web APIs, Microservices
 
-<p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-</p>
+**Frontend:** React, Angular
 
-<p>
-  <img src="https://img.shields.io/badge/SQLServer-512BD4?style=for-the-badge&logo=sqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/REDIS-DD0031?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+**Databases:** SQL Server, MongoDB, Redis, Postgres
+
+**Architecture & Design:** Scalable Systems, MVC/MVVM, DevOps Practices
+
+**Soft Skills:** Team Leadership, Agile/Scrum, Problem-Solving
+
 
 ### Contact me
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/faridbekran/) 
